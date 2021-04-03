@@ -1,0 +1,9 @@
+
+TestHttpClient:
+  doGetHttp:
+    booklisturl: https://ting55.com/book/13679
+    bookid: 13679
+    lytsurl: http://www.6yueting.com/web/index/video_new?code=c4ef0d8d44&type=0&no=
+    lytssize: 751
+server:
+  port: 8081
